@@ -1,4 +1,4 @@
-# Task 11.2: Camera-to-Base Frame Transformation
+#  Camera-to-Base Frame Transformation
 
 ## Overview
 This script performs a 3D spatial transformation to convert target marker coordinates detected by a vehicle's front camera (`camera_link`) into coordinates relative to the vehicle's center frame (`base_link`).
